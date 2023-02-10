@@ -1,0 +1,22 @@
+{
+  "name": "install-ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatianaYuryeva/install-ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TatianaYuryeva/install-ajs/issues"
+  },
+  "homepage": "https://github.com/TatianaYuryeva/install-ajs#readme",
+  "dependencies": {
+    "@tatianayuryeva/ajs": "github:TatianaYuryeva/ajs"
+  }
+}
